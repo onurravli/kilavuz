@@ -16,3 +16,11 @@
 
 
 ## Öğrenme Kaynakları
+
+1. [onurravli/git_turkce_kullanma_kilavuzu](https://github.com/onurravli/git_turkce_kullanma_kilavuzu)
+
+2. [ossu/computer-science](https://github.com/ossu/computer-science)
+
+3. [uhub / awesome-matlab](https://github.com/uhub/awesome-matlab)
+
+4. [Solido / awesome-flutter](https://github.com/Solido/awesome-flutter)
