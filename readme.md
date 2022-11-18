@@ -24,3 +24,9 @@
 3. [uhub / awesome-matlab](https://github.com/uhub/awesome-matlab)
 
 4. [Solido / awesome-flutter](https://github.com/Solido/awesome-flutter)
+
+## Youtube Kanalları
+
+1. [freecodecamp](https://www.youtube.com/@freecodecamp)
+2. [Bilgisayar Kavramları](https://www.youtube.com/@Sadievrenseker_BK)
+3. []()
