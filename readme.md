@@ -1,6 +1,6 @@
-# Yazılım Öğrenmeye Dair Çeşitli Kılavuzlar
+<h1>Kılavuz</h1>
 
-## Yol Haritaları
+<h3>Yol Haritaları</h3>
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
@@ -14,7 +14,7 @@
 
 6. [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
-## Öğrenme Kaynakları
+<h3>Öğrenme Kaynakları</h3>
 
 1. [onurravli/git_turkce_kullanma_kilavuzu](https://github.com/onurravli/git_turkce_kullanma_kilavuzu)
 
@@ -24,7 +24,7 @@
 
 4. [Solido / awesome-flutter](https://github.com/Solido/awesome-flutter)
 
-## Youtube Kanalları
+<h3>Youtube Kanalları</h3>
 
 1. [freecodecamp](https://www.youtube.com/@freecodecamp)
 2. [Bilgisayar Kavramları](https://www.youtube.com/@Sadievrenseker_BK)
