@@ -10,10 +10,9 @@
 
 4. [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
 
-5. **Önemli** >> [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) 
+5. [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 
 6. [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
-
 
 ## Öğrenme Kaynakları
 
@@ -29,4 +28,3 @@
 
 1. [freecodecamp](https://www.youtube.com/@freecodecamp)
 2. [Bilgisayar Kavramları](https://www.youtube.com/@Sadievrenseker_BK)
-3. []()
